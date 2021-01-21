@@ -1129,14 +1129,9 @@ main 受講者の声
   margin-top: 60px;
 }
 
-@media screen and (max-width: 1070px){
-.interview-list {
-    display: block;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 160px;
-    padding-right: 160px;
- }
+interview-list {
+    margin-left: -20px;
+    margin-right: -20px;
 }
 
 .interview-list > li {
